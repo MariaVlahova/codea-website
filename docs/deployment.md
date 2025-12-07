@@ -87,8 +87,8 @@ services:
     image: postgres:15
     environment:
       - POSTGRES_DB=codea_blog
-      - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_USER=postgres_user
+      - POSTGRES_PASSWORD=postgres_pass
     volumes:
       - postgres_data:/var/lib/postgresql/data
 
