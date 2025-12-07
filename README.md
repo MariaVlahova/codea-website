@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-**Codea Blog** is a modern, hybrid content management system that seamlessly combines the power of Django/Wagtail CMS with FastAPI's high-performance REST API capabilities. This project demonstrates how to build a production-ready blog platform that serves both content editors (via Wagtail's intuitive admin interface) and developers (via a modern REST API).
+**Codea Blog** is a modern, hybrid content management system that seamlessly combines the power of Django/Wagtail CMS with FastAPI's high-performance REST API capabilities. 
+This project demonstrates how to build a production-ready blog platform that serves both content editors (via Wagtail's intuitive admin interface)
+and developers (via a modern REST API). The AUtorization and Authentication is handle by SSO solution.
 
 ### Key Highlights
 
